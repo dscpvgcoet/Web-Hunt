@@ -1,0 +1,117 @@
+body {
+  font-family: "Poppins", sans-serif;
+  margin: 0;
+  color: white;
+  background-color: black;
+}
+
+section {
+  margin: auto;
+  width: 80%;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 50px;
+}
+
+h1 {
+  font-size: 40px;
+}
+
+button {
+  color: white;
+  background-color: black;
+  text-decoration: none;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.orange-color {
+  color: orange;
+}
+
+.flexible-container {
+  display: flex;
+  margin-bottom: 150px;
+}
+
+.half-width {
+  width: 50%;
+  padding-left: 5%;
+  text-align: justify;
+}
+
+.half-width p {
+  padding-right: 50px;
+}
+
+.half-width img {
+  width: 80%;
+  padding-top: 30px;
+}
+
+.link-button {
+  text-decoration: none;
+  background-image: linear-gradient(orange, tomato);
+  color: white;
+  font-weight: 700;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+
+.top-banner {
+
+  background-repeat: no-repeat;
+  box-sizing: border-box;
+  color: white;
+  background-color: black;
+}
+
+.dream-big {
+  
+  background-repeat: no-repeat;
+  background-position: right;
+  box-sizing: border-box;
+}
+
+.experience-area {
+ 
+  background-repeat: no-repeat;
+  background-position: left;
+  box-sizing: border-box;
+}
+
+.experience-item {
+  width: 40%;
+  margin-left: 5%;
+  margin-right: 5%;
+  padding-left: 30px;
+  padding-right: 30px;
+  border-radius: 10px;
+  box-shadow: 10px 10px 40px gray;
+  text-align: justify;
+  color: white;
+  background-color: black;
+}
+
+#full-stack-experience {
+  border-left: 7px solid;
+  border-image: linear-gradient(purple, tomato);
+  border-image-slice: 1;
+}
+
+#web-dev-experience {
+  border-left: 7px solid;
+  border-image: linear-gradient(blue, cyan);
+  border-image-slice: 1;
+}
+
+footer p {
+  text-align: center;
+}
+
+.experience-area h1 {
+  padding: 5%;
+}
